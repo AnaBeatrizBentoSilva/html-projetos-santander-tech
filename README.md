@@ -19,12 +19,26 @@ O curso de HTML oferece uma introdução abrangente para iniciantes, ensinando c
 
 Cada pasta representa um projeto individual
 
-Ordem das aulas:
-- **Aula 1**: primeiro.html
-- **Aula 2**: principais_tags_p1.html
-- **Aula 3**: principais_tags_p2.html
-- **Aula 4**: tags_formatacao_texto.html
-- **Aula 5**: elementos_semanticos.html
-- **Aula 6**: barra_navegacao.html | blog.html | portifólio
-- **Aula 7**: tabelas.html
-- **Aula 8**: formularios.html
+```plaintext
+.
+├── aula1/
+│   └── primeiro.html
+├── aula2/
+│   └── principais_tags_html_p1.html
+├── aula3/
+│   └── principais_tags_html_p2.html
+├── aula4/
+│   └── tags_formatacao_texto.html
+├── aula5/
+│   └── elementos_semanticos.html
+├── aula6/
+│   ├── barra_navegacao.html
+│   ├── blog.html
+│   └── portfolio.html
+├── aula7/
+│   └── tabelas.html
+├── aula8/
+│   └── formularios.html
+├── images/
+│   └── html.jpg
+└── README.md
