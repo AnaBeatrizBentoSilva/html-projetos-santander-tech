@@ -3,7 +3,7 @@
 Este repositório contém os projetos desenvolvidos durante o curso de Frontend oferecido pelo Santander Tech+ em parceria com a ADA. Cada projeto foi criado para aplicar e consolidar os conhecimentos adquiridos ao longo do curso.
 
 ## Conteúdo
-O curso de HTML oferece uma introdução abrangente para iniciantes, ensinando como criar sua primeira página web estruturada e interativa com uso de HTML! 
+O curso de HTML apresenta uma introdução abrangente para iniciantes, ensinando como criar sua primeira página web estruturada e interativa com uso de HTML! 
 
 - **Criando a Primeira Página HTML**
 - **Principais Tags HTML**
